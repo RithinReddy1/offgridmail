@@ -1,0 +1,200 @@
+
+==================================================
+Time     : 2026-05-25 16:12
+From     : Wispr Flow <hello@mail.wispr.ai>
+Subject  : Try Flow on your computer 💻
+Category : newsletter
+Priority : low
+Summary  : Promotional Email
+Urgent   : No
+Actions  : The sender is Wispr Flow and the email is promoting their desktop version of Flow. The free trial ends soon, and they are encouraging users to upgrade., The email contains a clear call-to-action (CTA) to try Flow for desktop and provides multiple links to get started., The CTA includes a link to pricing information and a link to join thousands of users on desktop.
+Reply    : No
+
+==================================================
+Time     : 2026-05-25 16:12
+From     : Lovable <noreply@lovable.dev>
+Subject  : Last chance to win 1,000 credits - submit your build today
+Category : newsletter
+Priority : high
+Summary  : Reminder about Lovable Builders Sweepstakes
+Urgent   : No
+Actions  : Submit your build before 11:59pm PT tonight for a chance to win 1,000 credits., Check the link below for more information and to enter the sweepstake.
+
+==================================================
+Time     : 2026-05-25 16:12
+From     : "Superhuman – Zain Kahn" <superhuman@mail.joinsuperhuman.ai>
+Subject  : 📉 DeepSeek slashes pricing
+Category : newsletter
+Priority : low
+Summary  : Email from Superhuman – Zain Kahn with news and updates on AI, including Polsia's $250M valuation and DeepSeek's permanent pricing reduction.
+Urgent   : No
+
+==================================================
+Time     : 2026-05-25 16:12
+From     : The Code <thecode@mail.joinsuperhuman.ai>
+Subject  : 🚀 Cursor is having a moment
+Category : newsletter
+Priority : low
+Summary  : A newsletter from The Code with updates on Cursor, Notion, and IBM Bob, as well as programming insights and trending topics.
+Urgent   : No
+Actions  : View image: https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/0f9b7efa-c879-4eca-aa49-6e0122c8132c/Group_IBM.jpg?t=1779386177
+Reply    : None
+
+==================================================
+Time     : 2026-05-25 16:12
+From     : Startup School <no-reply@ycombinator.com>
+Subject  : [Startup School] Reminder to submit your weekly update!
+Category : newsletter
+Priority : low
+Summary  : Startup School weekly update reminder
+Urgent   : No
+Actions  : Submit weekly update by end of day on Sunday
+
+==================================================
+Time     : 2026-05-25 16:12
+From     : "Superhuman – Zain Kahn" <superhuman@mail.joinsuperhuman.ai>
+Subject  : 🌊 The ocean had its own T. rex
+Category : newsletter
+Priority : low
+Summary  : The email is from Superhuman - Zain Kahn and contains two main sections: 1) A promotional image with a link to a video of SpaceX's massive new Starship V3 blasting off into space, and 2) The Sunday Special section highlighting the most interesting scientific and technological breakthroughs this week. 
+Urgent   : No
+Actions  : View the promotional image
+
+==================================================
+Time     : 2026-05-25 16:12
+From     : Y Combinator <workatastartup@ycombinator.com>
+Subject  : Welcome to YC's Work at a Startup!
+Category : newsletter
+Priority : low
+Summary  : YC's Work at a Startup newsletter
+Urgent   : No
+Actions  : Update profile at any time here: https://www.workatastartup.com/application
+
+==================================================
+Time     : 2026-05-25 16:12
+From     : Alex from Wati <alex@wati.io>
+Subject  : Your Wati Trial Has Ended – Don't Miss Out on Growth! 💔
+Category : newsletter
+Priority : high
+Summary  : The email is a reminder to upgrade from a trial to a paid plan for Wati, a customer support platform.
+Urgent   : No
+Actions  : View Plans & Upgrade (https://cl8mn04.na1.hubspotlinks.com/Ctc/R+113/cl8mn04/VWHcr-2Js-SQN68v4GjsSm_0W2QY3Nh5PqszvMLtlV43pyd0W6N1vHY6lZ3kQW1QlJyw5lM7HTN7Y-M5RnpBBsW6-l_ty8_bxX0W7G5Hkf8j2l8-W58c4Mm3GCM4YW7Zs_4q4kBSdKW2tgws_5m1GFmVjsZh968zmLWW6-TYmr2DmX9wV4y56C1Z7shdW7HSjf64cBp04W4s0krg5Vqk8WW5ghp-f47JRGzW5WVCDl7wLxh1VsTsyP50nPDSW7cBV_S2Px4G9W2g_LGm91s_3mW3fx3qC5N6t4KW7HL-hJ1JfjCVW7jCvKZ5fMj4ZN3019RTvyqDZW1TfJkF1CsgFCf16RC7K04)
+Reply    : No
+
+==================================================
+Time     : 2026-05-25 16:12
+From     : "Superhuman – Zain Kahn" <superhuman@mail.joinsuperhuman.ai>
+Subject  : 🌌 A four-armed robot built for space
+Category : newsletter
+Priority : medium
+Summary  : Email Analysis
+Urgent   : No
+Actions  : View image link: https://www.ai21.com/yaap/?utm_source=superhuman, View image link: https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/ca3a86c5-b15d-42d1-93f4-55b78b62ae7f/Group_1000005248.jpg?t=1779486281
+
+==================================================
+Time     : 2026-05-25 16:12
+From     : Lovable <noreply@lovable.dev>
+Subject  : It looks like a real product
+Category : newsletter
+Priority : low
+Summary  : The email is a marketing campaign from Lovable, a product design platform.
+Urgent   : No
+
+==================================================
+Time     : 2026-05-25 16:12
+From     : Startup School <no-reply@ycombinator.com>
+Subject  : [Startup School] Reminder to submit your weekly update!
+Category : newsletter
+Priority : low
+Summary  : Reminder from Startup School to submit weekly update
+Urgent   : No
+Actions  : Submit weekly update by end of day on Sunday
+
+==================================================
+Time     : 2026-05-25 16:13
+From     : "Superhuman – Zain Kahn" <superhuman@mail.joinsuperhuman.ai>
+Subject  : 📊 ChatGPT gets PowerPoint skills
+Category : informational
+Priority : low
+Summary  : Email Analysis
+Urgent   : No
+Reply    : None
+
+==================================================
+Time     : 2026-05-25 16:13
+From     : The Code <thecode@mail.joinsuperhuman.ai>
+Subject  : 👀 Microsoft and Uber ditch Claude Code
+Category : newsletter
+Priority : low
+Summary  : The email is a newsletter from The Code, discussing recent news about Microsoft and Uber cutting off access to Claude Code due to rising costs. It also includes a survey to gather feedback on the newsletter.
+Urgent   : No
+Actions  : Take our 60-second reader survey
+
+==================================================
+Time     : 2026-05-25 16:13
+From     : Lovable <noreply@lovable.dev>
+Subject  : Publishing doesn't mean public
+Category : newsletter
+Priority : low
+Summary  : Lovable's newsletter with publishing tips
+Urgent   : No
+Actions  : Read more about Lovable's features and pricing at https://lovable.dev/settings?tab=billing&utm_campaign=Onboarding+Lifecycle+v4+Nov+2025&utm_content=Bandit+-+Email+6&utm_medium=email_action&utm_source=customer.io
+
+==================================================
+Time     : 2026-05-25 16:13
+From     : Figma <announcements@figma.com>
+Subject  : Turn your designs into conversations
+Category : newsletter
+Priority : low
+Summary  : Figma's promotional email encouraging users to collaborate on designs using their platform.
+Urgent   : No
+Actions  : Visit Figma's website: https://www.figma.com/files
+
+==================================================
+Time     : 2026-05-25 16:13
+From     : Google AI Studio <googleaistudio-noreply@google.com>
+Subject  : Build Android apps in minutes with simple prompts
+Category : informational
+Priority : low
+Summary  : Google AI Studio Update
+Urgent   : No
+Reply    : No
+
+==================================================
+Time     : 2026-05-25 16:13
+From     : "Superhuman – Zain Kahn" <superhuman@mail.joinsuperhuman.ai>
+Subject  : 📈 Meet the autonomous growth agent
+Category : newsletter
+Priority : low
+Summary  : Email Analysis
+Urgent   : No
+
+==================================================
+Time     : 2026-05-25 16:13
+From     : The Code <thecode@mail.joinsuperhuman.ai>
+Subject  : 👀 How do junior devs break in now
+Category : newsletter
+Priority : medium
+Summary  : The Code newsletter discusses recent developments in software engineering, including AI's impact on junior developers and supply chain attacks.
+Urgent   : No
+Actions  : Read the full article: https://x.com/mattpocockuk/status/2057110441864696164
+Reply    : None
+
+==================================================
+Time     : 2026-05-25 16:13
+From     : Lovable <noreply@lovable.dev>
+Subject  : Your idea is waiting
+Category : newsletter
+Priority : low
+Summary  : The email is a reminder to pick up where the sender left off with their project.
+Urgent   : No
+Reply    : No
+
+==================================================
+Time     : 2026-05-25 16:13
+From     : Wispr Flow <hello@mail.wispr.ai>
+Subject  : Voice-to-text that actually sounds like you!
+Category : newsletter
+Priority : low
+Summary  : Email Analysis
+Urgent   : No
