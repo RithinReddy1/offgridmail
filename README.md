@@ -1,6 +1,6 @@
 # 🔒 OffGridMail
 
-### Privacy-First Email AI — 100% Local, Zero Cloud
+### Privacy:First Email AI , 100% Local, Zero Cloud
 
 > Your emails stay on your machine. Always.
 
@@ -25,12 +25,12 @@ I wanted something different. So I built OffGridMail.
 ## ✨ What It Does
 
 - 📧 Reads your Gmail inbox every day at 8am automatically
-- 🏷️ Categorizes emails — urgent / newsletter / action required
-- ⚡ Assigns priority — high / medium / low
+- 🏷️ Categorizes emails : urgent / newsletter / action required
+- ⚡ Assigns priority : high / medium / low
 - ✍️ Drafts suggested replies
 - ⭐ Flags urgent emails directly in Gmail
 - 📝 Saves a full analysis log to your computer
-- 🔒 100% local — no cloud, no API keys, no subscriptions
+- 🔒 100% local : no cloud, no API keys, no subscriptions
 
 -----
 
